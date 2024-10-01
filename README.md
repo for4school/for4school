@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @for4school, a student struggling through a mechanical engineering degree.
+- 👀 I’m interested in cars and getting my hands dirty.
+- 🌱 I’m currently learning how to code in Python. It is pretty hard!
+- 💞️ I’m looking to collaborate on nothing right now.
+- 📫 How to reach me: through github.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I cannot work with concepts, it does not work with how I learn. Physical learning is more my speed.
